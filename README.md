@@ -1,0 +1,2 @@
+# SalesManagementSysteam
+使用python语言Django框架编写的销售管理系统
